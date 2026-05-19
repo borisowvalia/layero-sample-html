@@ -1,1 +1,4 @@
 .DS_Store
+
+# Layero local state
+.layero/cache/
